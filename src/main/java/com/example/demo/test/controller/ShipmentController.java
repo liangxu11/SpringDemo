@@ -13,5 +13,10 @@ public class ShipmentController {
         return null;
     }
 
-    
+    @RequestMapping("/split1")
+    public String toString1() {
+        System.out.println("111");
+        return null;
+    }
+
 }
