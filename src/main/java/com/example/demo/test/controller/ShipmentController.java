@@ -13,11 +13,13 @@ public class ShipmentController {
         return null;
     }
 
-    @RequestMapping("/split1")
+    @RequestMapping("/split12")
     public String toString1() {
-        System.out.println("111");
+        System.out.println("1112");
         return null;
     }
+
+
 
 
 
